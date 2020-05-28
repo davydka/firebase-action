@@ -3,7 +3,7 @@ FROM node:10-slim
 LABEL version="1.1.0"
 LABEL repository="https://github.com/davydka/firebase-action"
 LABEL homepage="https://github.com/davydka/firebase-action"
-LABEL maintainer="Jeremy Shore <davydka@gmail.com>"
+LABEL maintainer="David Whitely <davydka@gmail.com>"
 
 LABEL com.github.actions.name="GitHub Action for Firebase with JDK"
 LABEL com.github.actions.description="Wraps the firebase-tools CLI to enable common commands."
