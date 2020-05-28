@@ -1,6 +1,6 @@
-name: 'GitHub Action for Firebase'
+name: 'GitHub Action for Firebase with JDK'
 author: 'Jeremy Shore'
-description: 'Wraps the firebase-tools CLI to enable common commands.'
+description: 'Wraps the firebase-tools CLI and JDK to enable common commands and run firebase emulator.'
 branding:
   icon: 'package'
   color: 'gray-dark'
